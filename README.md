@@ -1,3 +1,5 @@
 # Devops
 just to practice
-still practicing!!
+
+
+To be continued.. git training
